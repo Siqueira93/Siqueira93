@@ -1,7 +1,8 @@
 # Welcome to GitHub Desktop!
 
 <h1> My name is RAUL S SIQUEIRA</h1>
-<h2>Resident of Brasilian</h2>
+<h2> Resident of Brasilian</h2>
+<h2> Mais um fanático em técnologia</h2>
 
 <p>Acompanhe diariamente minha evolução, não será apenas um sonho mais uma realização!!</p>
 
