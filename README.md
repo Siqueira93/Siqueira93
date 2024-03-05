@@ -6,9 +6,9 @@
 
 <p>Acompanhe diariamente minha evolução, não será apenas um sonho mais uma realização!!</p>
 <p>Follow my evolution daily, it won't just be a dream, it will be more of a realization!!</p>
-
+<div align=center>
 ![image](https://github.com/Siqueira93/Siqueira93/assets/92484620/eb473c6a-d343-4857-aff6-6367f2e8a89b)
-
+</div>
 
 
 
