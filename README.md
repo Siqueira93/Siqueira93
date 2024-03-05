@@ -5,7 +5,8 @@
 
 <p>Acompanhe diariamente minha evolução, não será apenas um sonho mais uma realização!!</p>
 
-![image](https://github.com/Siqueira93/Siqueira93/assets/92484620/eb473c6a-d343-4857-aff6-6367f2e8a89b)
+
+<center>![image](https://github.com/Siqueira93/Siqueira93/assets/92484620/eb473c6a-d343-4857-aff6-6367f2e8a89b)
 
 
 
