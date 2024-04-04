@@ -14,6 +14,8 @@
  <p>Acompanhe diariamente minha evolução, não será apenas um sonho mais uma realização!!</p>
  <p>Follow my evolution daily, it won't just be a dream, it will be more of a realization!!</p>
 
+ :computer: I'm Front-End Developer!
+
   <div align="center" >
   
   ![image](https://github.com/Siqueira93/Siqueira93/assets/92484620/eb473c6a-d343-4857-aff6-6367f2e8a89b)
@@ -27,10 +29,19 @@
   <br>
   <br>
   <br>
-  <div align="center">
-  <img align="center" height="190em" src="https://github-readme-stats.vercel.app/api?username=Siqueira93&show_icons=true&theme=react&include_all_commits=true&count_private=false"/&gt;
-  <img align="center" height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Siqueira93&layout=compact&langs_count=7&theme=react"/&gt;  
-</div>
 
+  <!-- ICONS -->
+  <div>
+            <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" widt="40" height="40" />
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" widt="40" height="40" />
+            <img fill="#fffff" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" width="40" height="40" />
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" widt="40" height="40" />
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="40" height="40" />
+          
+          
+          
+          
+  </div>
 
 
