@@ -23,7 +23,6 @@
 
 
   <div align="center" >
-
    <b><h2>Usuário<br> MESTRE</b></h2>
   </div>
   <br>
@@ -38,10 +37,6 @@
             <img fill="#fffff" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" width="40" height="40" />
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" widt="40" height="40" />
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="40" height="40" />
-          
-          
-          
-          
   </div>
 
 
