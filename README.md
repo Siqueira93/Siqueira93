@@ -38,7 +38,5 @@
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" widt="40" height="40" />
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="40" height="40" />
   </div>
-<a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/8395204146976ca5da4373d58f529d5fd64f8a217b65decc47392458b04b187b/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d5653526f686f64266c61796f75743d636f6d70616374266c616e67735f636f756e743d37267468656d653d7265616374">
- <img align="center" height="190em" src="https://camo.githubusercontent.com/8395204146976ca5da4373d58f529d5fd64f8a217b65decc47392458b04b187b/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d5653526f686f64266c61796f75743d636f6d70616374266c616e67735f636f756e743d37267468656d653d7265616374" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=Siqueira93&amp;layout=compact&amp;langs_count=7&amp;theme=react" style="max-width: 100%;">
-</a>
+
 
