@@ -16,7 +16,7 @@
  <p>Acompanhe diariamente minha evolução, não será apenas um sonho mais uma realização!!</p>
  <p>Follow my evolution daily, it won't just be a dream, it will be more of a realization!!</p>
 
- :computer: I'm Front-End Developer!
+ :computer: I'm Front-End / Back-End Developer!
 
   <div align="center" >
   
